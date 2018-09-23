@@ -1,0 +1,11 @@
+#btns {
+  width: 75%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+button {
+  width: 30%;
+  height: 48px;
+  font-size: 24px;
+}
